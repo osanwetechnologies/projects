@@ -13,7 +13,7 @@ def get_user_age():
 def get_user_city():
   return input("Which city are you from? ")
 
-def get_user_position()
+def get_user_position():
   return input("What is your work position? ")
 
 def append_to_csv(row_data):
